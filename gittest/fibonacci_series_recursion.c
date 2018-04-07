@@ -18,6 +18,7 @@ int main()
    return 0;
 }
 printf("new line added for testing purpose");
+printf("then how can you know this things happen")
 int Fibonacci(int n)
 {
    if ( n == 0 )
